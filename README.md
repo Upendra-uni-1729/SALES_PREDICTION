@@ -34,6 +34,6 @@ In this project, we employ a range of machine learning techniques to predict sal
 To set up this project locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Upendra-uni-1729/ML_Projects.git
-cd ML_Projects
+git clone https://github.com/Upendra-uni-1729/SALES_PREDICTION.git
+cd SALES_PREDICTION
 pip install -r requirements.txt
